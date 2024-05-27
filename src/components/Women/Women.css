@@ -1,0 +1,23 @@
+.women {
+    background: rgb(255, 255, 255);
+    margin-top: 30px;
+
+}
+
+.shoes {
+    margin-top: 30px;
+    display: flex;
+    margin-left: 25vh;
+}
+
+.clothing {
+    margin-top: -10%;
+    display: flex;
+    margin-left: 77vh;
+}
+
+.shop_by_sport {
+    margin-top: -10%;
+    display: flex;
+    margin-left: 130vh;
+}
