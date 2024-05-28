@@ -69,33 +69,7 @@ body{
     grid-template-rows: repeat(4, 524px);
 }
 
-.basketball {
-    display: grid;
-    margin-left: 7%;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 524px);
-}
 
-.cycking {
-    display: grid;
-    margin-left: 7%;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 524px);
-}
-
-.golf {
-    display: grid;
-    margin-left: 7%;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 524px);
-}
-
-.hiking {
-    display: grid;
-    margin-left: 7%;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 524px);
-}
 
 .shoes {
     display: flex;

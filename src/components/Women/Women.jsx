@@ -63,6 +63,27 @@ import sandals17 from '../../assets/slides_sandals/sandals-17.avif'
 import sandals18 from '../../assets/slides_sandals/sandals-18.avif'
 import sandals19 from '../../assets/slides_sandals/sandals-19.avif'
 import sandals20 from '../../assets/slides_sandals/sandals-20.avif'
+
+import walking1 from '../../assets/walking/walking-1.avif'
+import walking2 from '../../assets/walking/walking-2.avif'
+import walking3 from '../../assets/walking/walking-3.avif'
+import walking4 from '../../assets/walking/walking-4.avif'
+import walking5 from '../../assets/walking/walking-5.avif'
+import walking6 from '../../assets/walking/walking-6.avif'
+import walking7 from '../../assets/walking/walking-7.avif'
+import walking8 from '../../assets/walking/walking-8.avif'
+import walking9 from '../../assets/walking/walking-9.avif'
+import walking10 from '../../assets/walking/walking-10.avif'
+import walking11 from '../../assets/walking/walking-11.avif'
+import walking12 from '../../assets/walking/walking-12.avif'
+import walking13 from '../../assets/walking/walking-13.avif'
+import walking14 from '../../assets/walking/walking-14.avif'
+import walking15 from '../../assets/walking/walking-15.avif'
+import walking16 from '../../assets/walking/walking-16.avif'
+import walking17 from '../../assets/walking/walking-17.avif'
+import walking18 from '../../assets/walking/walking-18.avif'
+import walking19 from '../../assets/walking/walking-19.avif'
+import walking20 from '../../assets/walking/walking-20.avif'
 import './Women.css'
 
 
@@ -87,16 +108,6 @@ const Kids = () => {
                 <li><Link to="shorts">Shorts</Link></li>
                 <li><Link to="dresses & skirts">Dresses & Skirts</Link></li>
                 <li><Link to="plus size">Plus Size</Link></li>
-            </ul>
-        </div>
-
-        <div className='shop_by_sport'>
-            <ul>
-                <div>SHOP BY SPORT</div>
-                <li><Link to="basketball">Basketball</Link></li>
-                <li><Link to="cycking">Cycking</Link></li>
-                <li><Link to="golf">Golf</Link></li>
-                <li><Link to="hiking">Hiking</Link></li>
             </ul>
         </div>
         
@@ -666,7 +677,7 @@ const Kids = () => {
                         <Card.Body>
                             <Card.Title>ADILETTE COMFORT SLIDES</Card.Title>
                             <Card.Text>
-                                Swim
+                                Yoga
                             </Card.Text>
                             <Card.Text>$35</Card.Text>
                             <Card.Text>17 colorst</Card.Text>
@@ -676,398 +687,398 @@ const Kids = () => {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals8} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADILETTE 22 XLG SLIDES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$75 </Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals9} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADILETTE COMFORT SLIDES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$35</Card.Text>
+                            <Card.Text>6 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals10} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>TERREX HYDROTERRA LIGHT SANDALS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            TERREX
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$65</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals11} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADILETTE AQUA SLIDES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$25</Card.Text>
+                            <Card.Text>10 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals12} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIFOM STAN SMITH MULES</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$70</Card.Text>
+                            <Card.Text>8 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals13} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADILETTE 22 XLG SLIDES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$75</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals14} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADILETTE SLIDES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$40</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals15} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADILETTE LITE SLIDES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$35</Card.Text>
+                            <Card.Text>4 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals16} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADICANE CLOGS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$50</Card.Text>
+                            <Card.Text>4 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals17} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADILETTE AYOON SLIDES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$50</Card.Text>
+                            <Card.Text>13 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals18} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>TERREX HYDROTERRA SANDALS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                TERREX
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$75</Card.Text>
+                            <Card.Text>10 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals19} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADILETTE SLIDES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$40</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={sandals20} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>Y-3 SANDALS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Y-3
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$300</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
                     </div>} />
                 <Route path="walking" element={<div className='walking'>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img1} />
+                        <Card.Img variant="top" src={walking1} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>CLOUDFOAM PURE SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$75</Card.Text>
+                            <Card.Text>10 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img2} />
+                        <Card.Img variant="top" src={walking2} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ULTRABOOST LIGHT SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$190</Card.Text>
+                            <Card.Text>4 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img3} />
+                        <Card.Img variant="top" src={walking3} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>SUPERNOVA RISE W</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$140</Card.Text>
+                            <Card.Text>10 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img4} />
+                        <Card.Img variant="top" src={walking4} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIZERO SL RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
                             <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>5 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img5} />
+                        <Card.Img variant="top" src={walking5} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>RUNFALCON 3 RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$65</Card.Text>
+                            <Card.Text>6 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img6} />
+                        <Card.Img variant="top" src={walking6} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ULTRABOOST 1.0 ADICOLOR</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$190</Card.Text>
+                            <Card.Text>6 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img7} />
+                        <Card.Img variant="top" src={walking7} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>SUPERNOVA STRIDE SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$110</Card.Text>
+                            <Card.Text>5 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img8} />
+                        <Card.Img variant="top" src={walking8} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>SUPERNOVA RISE SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$140</Card.Text>
+                            <Card.Text>10 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img9} />
+                        <Card.Img variant="top" src={walking9} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIDAS BY STELLA MCCARTNEY EARTHLIGHT 2.0 SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • adidas by Stella McCartney
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$280</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img10} />
+                        <Card.Img variant="top" src={walking10} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>SUPERNOVA STRIDE SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$110</Card.Text>
+                            <Card.Text>5 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img11} />
+                        <Card.Img variant="top" src={walking11} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>SUPERNOVA RISE SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$140</Card.Text>
+                            <Card.Text>10 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img12} />
+                        <Card.Img variant="top" src={walking12} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIDAS BY STELLA MCCARTNEY ULTRABOOST LIGHT SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • adidas by Stella McCartney
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$250</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img13} />
+                        <Card.Img variant="top" src={walking13} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ULTRABOOST 1.0 SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$133</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img14} />
+                        <Card.Img variant="top" src={walking14} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>DURAMO SPEED RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$63</Card.Text>
+                            <Card.Text>4 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img15} />
+                        <Card.Img variant="top" src={walking15} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ULTRABOOST 1.0 SHOES</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$133</Card.Text>
+                            <Card.Text>14 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img16} />
+                        <Card.Img variant="top" src={walking16} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>SUPERNOVA STRIDE SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$99</Card.Text>
+                            <Card.Text>5 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img17} />
+                        <Card.Img variant="top" src={walking17} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIDAS BY STELLA MCCARTNEY ULTRABOOST 20 SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • adidas by Stella McCartney
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$161</Card.Text>
+                            <Card.Text>4 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img18} />
+                        <Card.Img variant="top" src={walking18} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>DURAMO SL WIDE RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$53</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img19} />
+                        <Card.Img variant="top" src={walking19} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIDAS BY STELLA MCCARTNEY ULTRABOOST LIGHT SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • adidas by Stella McCartney
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$250</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img20} />
+                        <Card.Img variant="top" src={walking20} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>4DFWD 3 W</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$110</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
                     </div>} />  
@@ -2039,975 +2050,6 @@ const Kids = () => {
                             <Card.Text>20 colorst</Card.Text>
                         </Card.Body>
                     </Card>
-                    </div>} />
-                
-                <Route path="basketball" element={<div className='basketball'>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img1} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img2} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img3} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img4} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img5} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img6} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img7} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img8} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img9} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img10} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img11} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img12} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img13} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img14} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img15} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img16} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img17} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img18} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img19} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img20} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-                    </div>} />
-                <Route path="cycking" element={<div className='cycking'>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img1} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img2} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img3} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img4} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img5} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img6} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img7} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img8} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img9} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img10} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img11} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img12} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img13} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img14} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img15} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img16} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img17} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img18} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img19} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img20} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-                    </div>} />
-                <Route path="golf" element={<div className='golf'>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img1} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img2} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img3} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img4} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img5} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img6} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img7} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img8} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img9} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img10} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img11} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img12} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img13} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img14} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img15} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img16} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img17} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img18} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img19} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img20} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-                    </div>} />
-                <Route path="hiking" element={<div className='hiking'>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img1} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img2} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img3} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img4} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img5} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img6} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img7} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img8} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img9} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img10} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img11} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img12} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img13} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img14} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img15} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img16} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img17} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img18} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img19} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={img20} />
-                    <Card.Body>
-                        <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                        <Card.Text>
-                            Women's • Originals
-                        </Card.Text>
-                        <Card.Text>$120</Card.Text>
-                        <Card.Text>20 colorst</Card.Text>
-                    </Card.Body>
-                </Card>
                     </div>} />
             </Routes>
         </div>
