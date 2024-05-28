@@ -1,9 +1,23 @@
 .kids {
     background: rgb(255, 255, 255);
+    margin-top: 30px;
+
 }
 
-.ul {
+.shoes {
     margin-top: 30px;
     display: flex;
-    margin-left: 38px;
+    margin-left: 15%;
+}
+
+.clothing {
+    margin-top: -10%;
+    display: flex;
+    margin-left: 50%;
+}
+
+.shop_by_sport {
+    margin-top: -10%;
+    display: flex;
+    margin-left: 80%;
 }

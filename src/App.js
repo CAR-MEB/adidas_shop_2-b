@@ -16,7 +16,7 @@ function App() {
     <Header />
       <Routes>
         <Route path='home' element={<Home />} />
-        <Route path='men/*' element={<Man />} />
+        <Route path='man/*' element={<Man />} />
         <Route path='women/*' element={<Women />} />
         <Route path='kids/*' element={<Kids />} />
       </Routes>
